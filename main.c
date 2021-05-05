@@ -4,9 +4,9 @@
  * Department of System and Computer Engineering
  * SYSC 4001 - Operating Systems
  * 
- * @authors			Evan Smedley, 101148695
- * 					Trong Nguyen, 100848232
- * @version			1
+ * @authors			Trong Nguyen, 100848232
+ * 				Evan Smedley, 101148695
+ * @version			1.0
  * @release			March 5, 2021
  *
  * This program generates an executable file that simulates a small

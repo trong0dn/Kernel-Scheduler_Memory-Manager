@@ -1,0 +1,131 @@
+Time           PID            Old State      New State     
+
+0              1              NEW            READY
+
+0              1              READY          RUNNING
+
+4000           1              RUNNING        WAITING
+
+5000           1              WAITING        READY
+
+5001           1              READY          RUNNING
+
+9000           2              NEW            READY
+
+9001           1              RUNNING        WAITING
+
+9002           2              READY          RUNNING
+
+10001          1              WAITING        READY
+
+12000          3              NEW            READY
+
+13000          4              NEW            READY
+
+13002          2              RUNNING        WAITING
+
+13003          1              READY          RUNNING
+
+14002          2              WAITING        READY
+
+17000          5              NEW            READY
+
+17003          1              RUNNING        WAITING
+
+17004          3              READY          RUNNING
+
+18003          1              WAITING        READY
+
+21004          3              RUNNING        WAITING
+
+21005          4              READY          RUNNING
+
+22004          3              WAITING        READY
+
+25005          4              RUNNING        WAITING
+
+25006          2              READY          RUNNING
+
+26005          4              WAITING        READY
+
+29006          2              RUNNING        WAITING
+
+29007          5              READY          RUNNING
+
+30006          2              WAITING        READY
+
+33007          5              RUNNING        WAITING
+
+33008          1              READY          RUNNING
+
+34007          5              WAITING        READY
+
+37008          1              RUNNING        WAITING
+
+37009          3              READY          RUNNING
+
+38008          1              WAITING        READY
+
+41009          3              RUNNING        WAITING
+
+41010          4              READY          RUNNING
+
+42009          3              WAITING        READY
+
+45010          4              RUNNING        WAITING
+
+45011          2              READY          RUNNING
+
+46010          4              WAITING        READY
+
+48011          2              RUNNING        TERMINATED
+
+48012          5              READY          RUNNING
+
+52012          5              RUNNING        WAITING
+
+52013          1              READY          RUNNING
+
+53012          5              WAITING        READY
+
+56013          1              RUNNING        WAITING
+
+56014          3              READY          RUNNING
+
+57013          1              WAITING        READY
+
+60014          3              RUNNING        TERMINATED
+
+60015          4              READY          RUNNING
+
+63015          4              RUNNING        TERMINATED
+
+63016          5              READY          RUNNING
+
+67016          5              RUNNING        WAITING
+
+67017          1              READY          RUNNING
+
+68016          5              WAITING        READY
+
+69017          1              RUNNING        TERMINATED
+
+69018          5              READY          RUNNING
+
+71018          5              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 5
+
+THROUGHPUT >>> 14203.80 ms/process
+
+AVERAGE TURNAROUND TIME >>> 52015.00 ms/process
+
+TOTAL WAIT TIME >>> 176075 ms
+
+AVERAGE WAIT TIME >>> 35215.00 ms/process
+
+AVERAGE CPU BURST TIME >>> 14000.00 ms/process
+
+AVERAGE RESPONSE TIME >>> 4072.79 ms

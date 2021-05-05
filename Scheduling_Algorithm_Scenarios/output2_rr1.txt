@@ -1,0 +1,92 @@
+Time           PID            Old State      New State     
+
+1000           1              NEW            READY
+
+1000           1              READY          RUNNING
+
+2000           2              NEW            READY
+
+2001           1              RUNNING        READY
+
+2002           2              READY          RUNNING
+
+3000           3              NEW            READY
+
+3003           2              RUNNING        READY
+
+3004           1              READY          RUNNING
+
+4000           4              NEW            READY
+
+4005           1              RUNNING        READY
+
+4006           3              READY          RUNNING
+
+5006           3              RUNNING        TERMINATED
+
+5007           2              READY          RUNNING
+
+6008           2              RUNNING        READY
+
+6009           4              READY          RUNNING
+
+7010           4              RUNNING        READY
+
+7011           1              READY          RUNNING
+
+8012           1              RUNNING        READY
+
+8013           2              READY          RUNNING
+
+9011           2              RUNNING        TERMINATED
+
+9012           4              READY          RUNNING
+
+10013          4              RUNNING        READY
+
+10014          1              READY          RUNNING
+
+11015          1              RUNNING        READY
+
+11016          4              READY          RUNNING
+
+12017          4              RUNNING        READY
+
+12018          1              READY          RUNNING
+
+13019          1              RUNNING        READY
+
+13020          4              READY          RUNNING
+
+14021          4              RUNNING        READY
+
+14022          1              READY          RUNNING
+
+15017          1              RUNNING        TERMINATED
+
+15018          4              READY          RUNNING
+
+16019          4              RUNNING        READY
+
+16020          4              READY          RUNNING
+
+17021          4              RUNNING        READY
+
+17022          4              READY          RUNNING
+
+18016          4              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 4
+
+THROUGHPUT >>> 4504.25 ms/process
+
+AVERAGE TURNAROUND TIME >>> 9262.50 ms/process
+
+TOTAL WAIT TIME >>> 20050 ms
+
+AVERAGE WAIT TIME >>> 5012.50 ms/process
+
+AVERAGE CPU BURST TIME >>> 4250.00 ms/process
+

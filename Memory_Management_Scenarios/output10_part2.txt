@@ -1,0 +1,239 @@
+Time           PID            Old State      New State     
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 1
+Total used memory: 200 Mb
+Used memory portions: 1
+Free memory portions: 3
+Total amount of free memory: 800 Mb
+Total amount of free usable memory: 700 Mb
+
+3              1              NEW            READY
+
+3              1              READY          RUNNING
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 2
+Total used memory: 300 Mb
+Used memory portions: 2
+Free memory portions: 2
+Total amount of free memory: 700 Mb
+Total amount of free usable memory: 400 Mb
+
+6              2              NEW            READY
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 3
+Total used memory: 450 Mb
+Used memory portions: 3
+Free memory portions: 1
+Total amount of free memory: 550 Mb
+Total amount of free usable memory: 50 Mb
+
+9              3              NEW            READY
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 4
+Total used memory: 500 Mb
+Used memory portions: 4
+Free memory portions: 0
+Total amount of free memory: 500 Mb
+Total amount of free usable memory: 0 Mb
+
+12             4              NEW            READY
+
+13             1              RUNNING        WAITING
+
+14             2              READY          RUNNING
+
+24             2              RUNNING        WAITING
+
+25             3              READY          RUNNING
+
+35             3              RUNNING        WAITING
+
+36             4              READY          RUNNING
+
+46             4              RUNNING        WAITING
+
+53             1              WAITING        READY
+
+54             1              READY          RUNNING
+
+64             1              RUNNING        WAITING
+
+93             2              WAITING        READY
+
+94             2              READY          RUNNING
+
+104            2              RUNNING        WAITING
+
+133            3              WAITING        READY
+
+134            3              READY          RUNNING
+
+144            3              RUNNING        WAITING
+
+173            4              WAITING        READY
+
+174            4              READY          RUNNING
+
+184            4              RUNNING        WAITING
+
+213            1              WAITING        READY
+
+214            1              READY          RUNNING
+
+224            1              RUNNING        WAITING
+
+253            2              WAITING        READY
+
+254            2              READY          RUNNING
+
+264            2              RUNNING        WAITING
+
+293            3              WAITING        READY
+
+294            3              READY          RUNNING
+
+304            3              RUNNING        WAITING
+
+333            4              WAITING        READY
+
+334            4              READY          RUNNING
+
+344            4              RUNNING        WAITING
+
+373            1              WAITING        READY
+
+374            1              READY          RUNNING
+
+384            1              RUNNING        WAITING
+
+413            2              WAITING        READY
+
+414            2              READY          RUNNING
+
+424            2              RUNNING        WAITING
+
+453            3              WAITING        READY
+
+454            3              READY          RUNNING
+
+464            3              RUNNING        WAITING
+
+493            4              WAITING        READY
+
+494            4              READY          RUNNING
+
+504            4              RUNNING        WAITING
+
+533            1              WAITING        READY
+
+534            1              READY          RUNNING
+
+544            1              RUNNING        TERMINATED
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 5
+Total used memory: 500 Mb
+Used memory portions: 4
+Free memory portions: 0
+Total amount of free memory: 500 Mb
+Total amount of free usable memory: 0 Mb
+
+545            5              NEW            READY
+
+545            5              READY          RUNNING
+
+555            5              RUNNING        WAITING
+
+573            2              WAITING        READY
+
+574            2              READY          RUNNING
+
+584            2              RUNNING        TERMINATED
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 6
+Total used memory: 500 Mb
+Used memory portions: 4
+Free memory portions: 0
+Total amount of free memory: 500 Mb
+Total amount of free usable memory: 0 Mb
+
+585            6              NEW            READY
+
+585            6              READY          RUNNING
+
+595            6              RUNNING        WAITING
+
+613            3              WAITING        READY
+
+614            3              READY          RUNNING
+
+624            3              RUNNING        TERMINATED
+
+653            4              WAITING        READY
+
+654            4              READY          RUNNING
+
+658            5              WAITING        READY
+
+663            6              WAITING        READY
+
+664            4              RUNNING        TERMINATED
+
+665            5              READY          RUNNING
+
+675            5              RUNNING        WAITING
+
+676            6              READY          RUNNING
+
+680            5              WAITING        READY
+
+686            6              RUNNING        WAITING
+
+687            5              READY          RUNNING
+
+691            6              WAITING        READY
+
+697            5              RUNNING        WAITING
+
+698            6              READY          RUNNING
+
+702            5              WAITING        READY
+
+708            6              RUNNING        WAITING
+
+709            5              READY          RUNNING
+
+713            6              WAITING        READY
+
+719            5              RUNNING        WAITING
+
+720            6              READY          RUNNING
+
+724            5              WAITING        READY
+
+730            6              RUNNING        WAITING
+
+731            5              READY          RUNNING
+
+735            6              WAITING        READY
+
+741            5              RUNNING        TERMINATED
+
+742            6              READY          RUNNING
+
+752            6              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 6
+
+THROUGHPUT >>> 125.50 ms/process
+
+AVERAGE TURNAROUND TIME >>> 641.00 ms/process
+
+TOTAL WAIT TIME >>> 126 ms
+
+AVERAGE WAIT TIME >>> 21.00 ms/process
+
+AVERAGE CPU BURST TIME >>> 50.00 ms/process
+
+AVERAGE RESPONSE TIME >>> 3.04 ms

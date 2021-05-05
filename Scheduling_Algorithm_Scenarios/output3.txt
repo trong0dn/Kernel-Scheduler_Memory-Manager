@@ -1,0 +1,46 @@
+Time           PID            Old State      New State     
+
+0              1              NEW            READY
+
+0              2              NEW            READY
+
+0              3              NEW            READY
+
+0              4              NEW            READY
+
+0              5              NEW            READY
+
+0              2              READY          RUNNING
+
+1000           2              RUNNING        TERMINATED
+
+1001           5              READY          RUNNING
+
+6001           5              RUNNING        TERMINATED
+
+6002           1              READY          RUNNING
+
+16002          1              RUNNING        TERMINATED
+
+16003          3              READY          RUNNING
+
+18003          3              RUNNING        TERMINATED
+
+18004          4              READY          RUNNING
+
+19004          4              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 5
+
+THROUGHPUT >>> 3801.00 ms/process
+
+AVERAGE TURNAROUND TIME >>> 12002.00 ms/process
+
+TOTAL WAIT TIME >>> 41010 ms
+
+AVERAGE WAIT TIME >>> 8202.00 ms/process
+
+AVERAGE CPU BURST TIME >>> 3800.00 ms/process
+

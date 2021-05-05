@@ -1,0 +1,14 @@
+main test1.txt output1.txt 0 0000 0
+main test2.txt output2_fcfs.txt 0 0000 0
+main test2.txt output2_rr1.txt 2 1000 0
+main test2.txt output2_rr2.txt 2 2000 0
+main test2.txt output2_rr3.txt 2 3000 0
+main test2.txt output2_rr4.txt 2 4000 0
+main test2.txt output2_rr5.txt 2 5000 0
+main test2.txt output2_rr6.txt 2 6000 0
+main test2.txt output2_rr7.txt 2 7000 0
+main test3.txt output3.txt 1 1000 0
+main test4.txt output4.txt 1 1000 0
+main test5.txt output5.txt 0 0000 0
+main test6.txt output6.txt 2 2000 0
+main test7.txt output7.txt 1 10 0

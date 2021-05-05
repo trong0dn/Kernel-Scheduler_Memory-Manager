@@ -1,0 +1,68 @@
+Time           PID            Old State      New State     
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 1
+Total used memory: 100 Mb
+Used memory portions: 1
+Free memory portions: 3
+Total amount of free memory: 900 Mb
+Total amount of free usable memory: 500 Mb
+
+1              1              NEW            READY
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 2
+Total used memory: 250 Mb
+Used memory portions: 2
+Free memory portions: 2
+Total amount of free memory: 750 Mb
+Total amount of free usable memory: 250 Mb
+
+1              2              NEW            READY
+
+1              1              READY          RUNNING
+
+51             1              RUNNING        TERMINATED
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 3
+Total used memory: 400 Mb
+Used memory portions: 2
+Free memory portions: 2
+Total amount of free memory: 600 Mb
+Total amount of free usable memory: 250 Mb
+
+52             3              NEW            READY
+
+52             2              READY          RUNNING
+
+102            2              RUNNING        TERMINATED
+
+103            3              READY          RUNNING
+
+153            3              RUNNING        TERMINATED
+
+MEMORY HAS BEEN ALLOCATED TO PROCESS 4
+Total used memory: 500 Mb
+Used memory portions: 1
+Free memory portions: 3
+Total amount of free memory: 500 Mb
+Total amount of free usable memory: 500 Mb
+
+154            4              NEW            READY
+
+154            4              READY          RUNNING
+
+204            4              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 4
+
+THROUGHPUT >>> 51.25 ms/process
+
+AVERAGE TURNAROUND TIME >>> 126.50 ms/process
+
+TOTAL WAIT TIME >>> 102 ms
+
+AVERAGE WAIT TIME >>> 25.50 ms/process
+
+AVERAGE CPU BURST TIME >>> 50.00 ms/process
+

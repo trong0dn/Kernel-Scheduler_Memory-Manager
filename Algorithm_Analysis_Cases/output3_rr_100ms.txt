@@ -1,0 +1,2855 @@
+Time           PID            Old State      New State     
+
+0              1              NEW            READY
+
+0              1              READY          RUNNING
+
+101            1              RUNNING        READY
+
+102            1              READY          RUNNING
+
+203            1              RUNNING        READY
+
+204            1              READY          RUNNING
+
+305            1              RUNNING        READY
+
+306            1              READY          RUNNING
+
+407            1              RUNNING        READY
+
+408            1              READY          RUNNING
+
+509            1              RUNNING        READY
+
+510            1              READY          RUNNING
+
+611            1              RUNNING        READY
+
+612            1              READY          RUNNING
+
+713            1              RUNNING        READY
+
+714            1              READY          RUNNING
+
+815            1              RUNNING        READY
+
+816            1              READY          RUNNING
+
+917            1              RUNNING        READY
+
+918            1              READY          RUNNING
+
+1019           1              RUNNING        READY
+
+1020           1              READY          RUNNING
+
+1121           1              RUNNING        READY
+
+1122           1              READY          RUNNING
+
+1223           1              RUNNING        READY
+
+1224           1              READY          RUNNING
+
+1325           1              RUNNING        READY
+
+1326           1              READY          RUNNING
+
+1427           1              RUNNING        READY
+
+1428           1              READY          RUNNING
+
+1529           1              RUNNING        READY
+
+1530           1              READY          RUNNING
+
+1631           1              RUNNING        READY
+
+1632           1              READY          RUNNING
+
+1733           1              RUNNING        READY
+
+1734           1              READY          RUNNING
+
+1835           1              RUNNING        READY
+
+1836           1              READY          RUNNING
+
+1937           1              RUNNING        READY
+
+1938           1              READY          RUNNING
+
+2039           1              RUNNING        READY
+
+2040           1              READY          RUNNING
+
+2141           1              RUNNING        READY
+
+2142           1              READY          RUNNING
+
+2243           1              RUNNING        READY
+
+2244           1              READY          RUNNING
+
+2345           1              RUNNING        READY
+
+2346           1              READY          RUNNING
+
+2447           1              RUNNING        READY
+
+2448           1              READY          RUNNING
+
+2549           1              RUNNING        READY
+
+2550           1              READY          RUNNING
+
+2651           1              RUNNING        READY
+
+2652           1              READY          RUNNING
+
+2753           1              RUNNING        READY
+
+2754           1              READY          RUNNING
+
+2855           1              RUNNING        READY
+
+2856           1              READY          RUNNING
+
+2957           1              RUNNING        READY
+
+2958           1              READY          RUNNING
+
+3059           1              RUNNING        READY
+
+3060           1              READY          RUNNING
+
+3161           1              RUNNING        READY
+
+3162           1              READY          RUNNING
+
+3263           1              RUNNING        READY
+
+3264           1              READY          RUNNING
+
+3365           1              RUNNING        READY
+
+3366           1              READY          RUNNING
+
+3467           1              RUNNING        READY
+
+3468           1              READY          RUNNING
+
+3569           1              RUNNING        READY
+
+3570           1              READY          RUNNING
+
+3671           1              RUNNING        READY
+
+3672           1              READY          RUNNING
+
+3773           1              RUNNING        READY
+
+3774           1              READY          RUNNING
+
+3875           1              RUNNING        READY
+
+3876           1              READY          RUNNING
+
+3977           1              RUNNING        READY
+
+3978           1              READY          RUNNING
+
+4039           1              RUNNING        WAITING
+
+5039           1              WAITING        READY
+
+5040           1              READY          RUNNING
+
+5141           1              RUNNING        READY
+
+5142           1              READY          RUNNING
+
+5243           1              RUNNING        READY
+
+5244           1              READY          RUNNING
+
+5345           1              RUNNING        READY
+
+5346           1              READY          RUNNING
+
+5447           1              RUNNING        READY
+
+5448           1              READY          RUNNING
+
+5549           1              RUNNING        READY
+
+5550           1              READY          RUNNING
+
+5651           1              RUNNING        READY
+
+5652           1              READY          RUNNING
+
+5753           1              RUNNING        READY
+
+5754           1              READY          RUNNING
+
+5855           1              RUNNING        READY
+
+5856           1              READY          RUNNING
+
+5957           1              RUNNING        READY
+
+5958           1              READY          RUNNING
+
+6059           1              RUNNING        READY
+
+6060           1              READY          RUNNING
+
+6161           1              RUNNING        READY
+
+6162           1              READY          RUNNING
+
+6263           1              RUNNING        READY
+
+6264           1              READY          RUNNING
+
+6365           1              RUNNING        READY
+
+6366           1              READY          RUNNING
+
+6467           1              RUNNING        READY
+
+6468           1              READY          RUNNING
+
+6569           1              RUNNING        READY
+
+6570           1              READY          RUNNING
+
+6671           1              RUNNING        READY
+
+6672           1              READY          RUNNING
+
+6773           1              RUNNING        READY
+
+6774           1              READY          RUNNING
+
+6875           1              RUNNING        READY
+
+6876           1              READY          RUNNING
+
+6977           1              RUNNING        READY
+
+6978           1              READY          RUNNING
+
+7079           1              RUNNING        READY
+
+7080           1              READY          RUNNING
+
+7181           1              RUNNING        READY
+
+7182           1              READY          RUNNING
+
+7283           1              RUNNING        READY
+
+7284           1              READY          RUNNING
+
+7385           1              RUNNING        READY
+
+7386           1              READY          RUNNING
+
+7487           1              RUNNING        READY
+
+7488           1              READY          RUNNING
+
+7589           1              RUNNING        READY
+
+7590           1              READY          RUNNING
+
+7691           1              RUNNING        READY
+
+7692           1              READY          RUNNING
+
+7793           1              RUNNING        READY
+
+7794           1              READY          RUNNING
+
+7895           1              RUNNING        READY
+
+7896           1              READY          RUNNING
+
+7997           1              RUNNING        READY
+
+7998           1              READY          RUNNING
+
+8099           1              RUNNING        READY
+
+8100           1              READY          RUNNING
+
+8201           1              RUNNING        READY
+
+8202           1              READY          RUNNING
+
+8303           1              RUNNING        READY
+
+8304           1              READY          RUNNING
+
+8405           1              RUNNING        READY
+
+8406           1              READY          RUNNING
+
+8507           1              RUNNING        READY
+
+8508           1              READY          RUNNING
+
+8609           1              RUNNING        READY
+
+8610           1              READY          RUNNING
+
+8711           1              RUNNING        READY
+
+8712           1              READY          RUNNING
+
+8813           1              RUNNING        READY
+
+8814           1              READY          RUNNING
+
+8915           1              RUNNING        READY
+
+8916           1              READY          RUNNING
+
+9000           2              NEW            READY
+
+9017           1              RUNNING        READY
+
+9018           2              READY          RUNNING
+
+9119           2              RUNNING        READY
+
+9120           1              READY          RUNNING
+
+9181           1              RUNNING        WAITING
+
+9182           2              READY          RUNNING
+
+9283           2              RUNNING        READY
+
+9284           2              READY          RUNNING
+
+9385           2              RUNNING        READY
+
+9386           2              READY          RUNNING
+
+9487           2              RUNNING        READY
+
+9488           2              READY          RUNNING
+
+9589           2              RUNNING        READY
+
+9590           2              READY          RUNNING
+
+9691           2              RUNNING        READY
+
+9692           2              READY          RUNNING
+
+9793           2              RUNNING        READY
+
+9794           2              READY          RUNNING
+
+9895           2              RUNNING        READY
+
+9896           2              READY          RUNNING
+
+9997           2              RUNNING        READY
+
+9998           2              READY          RUNNING
+
+10099          2              RUNNING        READY
+
+10100          2              READY          RUNNING
+
+10181          1              WAITING        READY
+
+10201          2              RUNNING        READY
+
+10202          1              READY          RUNNING
+
+10303          1              RUNNING        READY
+
+10304          2              READY          RUNNING
+
+10405          2              RUNNING        READY
+
+10406          1              READY          RUNNING
+
+10507          1              RUNNING        READY
+
+10508          2              READY          RUNNING
+
+10609          2              RUNNING        READY
+
+10610          1              READY          RUNNING
+
+10711          1              RUNNING        READY
+
+10712          2              READY          RUNNING
+
+10813          2              RUNNING        READY
+
+10814          1              READY          RUNNING
+
+10915          1              RUNNING        READY
+
+10916          2              READY          RUNNING
+
+11017          2              RUNNING        READY
+
+11018          1              READY          RUNNING
+
+11119          1              RUNNING        READY
+
+11120          2              READY          RUNNING
+
+11221          2              RUNNING        READY
+
+11222          1              READY          RUNNING
+
+11323          1              RUNNING        READY
+
+11324          2              READY          RUNNING
+
+11425          2              RUNNING        READY
+
+11426          1              READY          RUNNING
+
+11527          1              RUNNING        READY
+
+11528          2              READY          RUNNING
+
+11629          2              RUNNING        READY
+
+11630          1              READY          RUNNING
+
+11731          1              RUNNING        READY
+
+11732          2              READY          RUNNING
+
+11833          2              RUNNING        READY
+
+11834          1              READY          RUNNING
+
+11935          1              RUNNING        READY
+
+11936          2              READY          RUNNING
+
+12000          3              NEW            READY
+
+12037          2              RUNNING        READY
+
+12038          1              READY          RUNNING
+
+12139          1              RUNNING        READY
+
+12140          3              READY          RUNNING
+
+12241          3              RUNNING        READY
+
+12242          2              READY          RUNNING
+
+12343          2              RUNNING        READY
+
+12344          1              READY          RUNNING
+
+12445          1              RUNNING        READY
+
+12446          3              READY          RUNNING
+
+12547          3              RUNNING        READY
+
+12548          2              READY          RUNNING
+
+12649          2              RUNNING        READY
+
+12650          1              READY          RUNNING
+
+12751          1              RUNNING        READY
+
+12752          3              READY          RUNNING
+
+12853          3              RUNNING        READY
+
+12854          2              READY          RUNNING
+
+12955          2              RUNNING        READY
+
+12956          1              READY          RUNNING
+
+13000          4              NEW            READY
+
+13057          1              RUNNING        READY
+
+13058          3              READY          RUNNING
+
+13159          3              RUNNING        READY
+
+13160          2              READY          RUNNING
+
+13261          2              RUNNING        READY
+
+13262          4              READY          RUNNING
+
+13363          4              RUNNING        READY
+
+13364          1              READY          RUNNING
+
+13465          1              RUNNING        READY
+
+13466          3              READY          RUNNING
+
+13567          3              RUNNING        READY
+
+13568          2              READY          RUNNING
+
+13669          2              RUNNING        READY
+
+13670          4              READY          RUNNING
+
+13771          4              RUNNING        READY
+
+13772          1              READY          RUNNING
+
+13873          1              RUNNING        READY
+
+13874          3              READY          RUNNING
+
+13975          3              RUNNING        READY
+
+13976          2              READY          RUNNING
+
+14077          2              RUNNING        READY
+
+14078          4              READY          RUNNING
+
+14179          4              RUNNING        READY
+
+14180          1              READY          RUNNING
+
+14281          1              RUNNING        READY
+
+14282          3              READY          RUNNING
+
+14383          3              RUNNING        READY
+
+14384          2              READY          RUNNING
+
+14485          2              RUNNING        READY
+
+14486          4              READY          RUNNING
+
+14587          4              RUNNING        READY
+
+14588          1              READY          RUNNING
+
+14689          1              RUNNING        READY
+
+14690          3              READY          RUNNING
+
+14791          3              RUNNING        READY
+
+14792          2              READY          RUNNING
+
+14893          2              RUNNING        READY
+
+14894          4              READY          RUNNING
+
+14995          4              RUNNING        READY
+
+14996          1              READY          RUNNING
+
+15097          1              RUNNING        READY
+
+15098          3              READY          RUNNING
+
+15199          3              RUNNING        READY
+
+15200          2              READY          RUNNING
+
+15301          2              RUNNING        READY
+
+15302          4              READY          RUNNING
+
+15403          4              RUNNING        READY
+
+15404          1              READY          RUNNING
+
+15505          1              RUNNING        READY
+
+15506          3              READY          RUNNING
+
+15607          3              RUNNING        READY
+
+15608          2              READY          RUNNING
+
+15709          2              RUNNING        READY
+
+15710          4              READY          RUNNING
+
+15811          4              RUNNING        READY
+
+15812          1              READY          RUNNING
+
+15913          1              RUNNING        READY
+
+15914          3              READY          RUNNING
+
+16015          3              RUNNING        READY
+
+16016          2              READY          RUNNING
+
+16117          2              RUNNING        READY
+
+16118          4              READY          RUNNING
+
+16219          4              RUNNING        READY
+
+16220          1              READY          RUNNING
+
+16321          1              RUNNING        READY
+
+16322          3              READY          RUNNING
+
+16423          3              RUNNING        READY
+
+16424          2              READY          RUNNING
+
+16525          2              RUNNING        READY
+
+16526          4              READY          RUNNING
+
+16627          4              RUNNING        READY
+
+16628          1              READY          RUNNING
+
+16729          1              RUNNING        READY
+
+16730          3              READY          RUNNING
+
+16831          3              RUNNING        READY
+
+16832          2              READY          RUNNING
+
+16933          2              RUNNING        READY
+
+16934          4              READY          RUNNING
+
+17000          5              NEW            READY
+
+17035          4              RUNNING        READY
+
+17036          1              READY          RUNNING
+
+17137          1              RUNNING        READY
+
+17138          3              READY          RUNNING
+
+17239          3              RUNNING        READY
+
+17240          2              READY          RUNNING
+
+17341          2              RUNNING        READY
+
+17342          5              READY          RUNNING
+
+17443          5              RUNNING        READY
+
+17444          4              READY          RUNNING
+
+17545          4              RUNNING        READY
+
+17546          1              READY          RUNNING
+
+17647          1              RUNNING        READY
+
+17648          3              READY          RUNNING
+
+17749          3              RUNNING        READY
+
+17750          2              READY          RUNNING
+
+17851          2              RUNNING        READY
+
+17852          5              READY          RUNNING
+
+17953          5              RUNNING        READY
+
+17954          4              READY          RUNNING
+
+18055          4              RUNNING        READY
+
+18056          1              READY          RUNNING
+
+18157          1              RUNNING        READY
+
+18158          3              READY          RUNNING
+
+18259          3              RUNNING        READY
+
+18260          2              READY          RUNNING
+
+18361          2              RUNNING        READY
+
+18362          5              READY          RUNNING
+
+18463          5              RUNNING        READY
+
+18464          4              READY          RUNNING
+
+18565          4              RUNNING        READY
+
+18566          1              READY          RUNNING
+
+18667          1              RUNNING        READY
+
+18668          3              READY          RUNNING
+
+18769          3              RUNNING        READY
+
+18770          2              READY          RUNNING
+
+18871          2              RUNNING        READY
+
+18872          5              READY          RUNNING
+
+18973          5              RUNNING        READY
+
+18974          4              READY          RUNNING
+
+19075          4              RUNNING        READY
+
+19076          1              READY          RUNNING
+
+19177          1              RUNNING        READY
+
+19178          3              READY          RUNNING
+
+19279          3              RUNNING        READY
+
+19280          2              READY          RUNNING
+
+19381          2              RUNNING        READY
+
+19382          5              READY          RUNNING
+
+19483          5              RUNNING        READY
+
+19484          4              READY          RUNNING
+
+19585          4              RUNNING        READY
+
+19586          1              READY          RUNNING
+
+19687          1              RUNNING        READY
+
+19688          3              READY          RUNNING
+
+19789          3              RUNNING        READY
+
+19790          2              READY          RUNNING
+
+19891          2              RUNNING        READY
+
+19892          5              READY          RUNNING
+
+19993          5              RUNNING        READY
+
+19994          4              READY          RUNNING
+
+20095          4              RUNNING        READY
+
+20096          1              READY          RUNNING
+
+20197          1              RUNNING        READY
+
+20198          3              READY          RUNNING
+
+20299          3              RUNNING        READY
+
+20300          2              READY          RUNNING
+
+20361          2              RUNNING        WAITING
+
+20362          5              READY          RUNNING
+
+20463          5              RUNNING        READY
+
+20464          4              READY          RUNNING
+
+20565          4              RUNNING        READY
+
+20566          1              READY          RUNNING
+
+20667          1              RUNNING        READY
+
+20668          3              READY          RUNNING
+
+20769          3              RUNNING        READY
+
+20770          5              READY          RUNNING
+
+20871          5              RUNNING        READY
+
+20872          4              READY          RUNNING
+
+20973          4              RUNNING        READY
+
+20974          1              READY          RUNNING
+
+21075          1              RUNNING        READY
+
+21076          3              READY          RUNNING
+
+21177          3              RUNNING        READY
+
+21178          5              READY          RUNNING
+
+21279          5              RUNNING        READY
+
+21280          4              READY          RUNNING
+
+21361          2              WAITING        READY
+
+21381          4              RUNNING        READY
+
+21382          1              READY          RUNNING
+
+21483          1              RUNNING        READY
+
+21484          3              READY          RUNNING
+
+21585          3              RUNNING        READY
+
+21586          5              READY          RUNNING
+
+21687          5              RUNNING        READY
+
+21688          2              READY          RUNNING
+
+21789          2              RUNNING        READY
+
+21790          4              READY          RUNNING
+
+21891          4              RUNNING        READY
+
+21892          1              READY          RUNNING
+
+21993          1              RUNNING        READY
+
+21994          3              READY          RUNNING
+
+22095          3              RUNNING        READY
+
+22096          5              READY          RUNNING
+
+22197          5              RUNNING        READY
+
+22198          2              READY          RUNNING
+
+22299          2              RUNNING        READY
+
+22300          4              READY          RUNNING
+
+22401          4              RUNNING        READY
+
+22402          1              READY          RUNNING
+
+22503          1              RUNNING        READY
+
+22504          3              READY          RUNNING
+
+22605          3              RUNNING        READY
+
+22606          5              READY          RUNNING
+
+22707          5              RUNNING        READY
+
+22708          2              READY          RUNNING
+
+22809          2              RUNNING        READY
+
+22810          4              READY          RUNNING
+
+22911          4              RUNNING        READY
+
+22912          1              READY          RUNNING
+
+23013          1              RUNNING        READY
+
+23014          3              READY          RUNNING
+
+23115          3              RUNNING        READY
+
+23116          5              READY          RUNNING
+
+23217          5              RUNNING        READY
+
+23218          2              READY          RUNNING
+
+23319          2              RUNNING        READY
+
+23320          4              READY          RUNNING
+
+23421          4              RUNNING        READY
+
+23422          1              READY          RUNNING
+
+23523          1              RUNNING        READY
+
+23524          3              READY          RUNNING
+
+23625          3              RUNNING        READY
+
+23626          5              READY          RUNNING
+
+23727          5              RUNNING        READY
+
+23728          2              READY          RUNNING
+
+23829          2              RUNNING        READY
+
+23830          4              READY          RUNNING
+
+23931          4              RUNNING        READY
+
+23932          1              READY          RUNNING
+
+24033          1              RUNNING        READY
+
+24034          3              READY          RUNNING
+
+24135          3              RUNNING        READY
+
+24136          5              READY          RUNNING
+
+24237          5              RUNNING        READY
+
+24238          2              READY          RUNNING
+
+24339          2              RUNNING        READY
+
+24340          4              READY          RUNNING
+
+24441          4              RUNNING        READY
+
+24442          1              READY          RUNNING
+
+24543          1              RUNNING        READY
+
+24544          3              READY          RUNNING
+
+24645          3              RUNNING        READY
+
+24646          5              READY          RUNNING
+
+24747          5              RUNNING        READY
+
+24748          2              READY          RUNNING
+
+24849          2              RUNNING        READY
+
+24850          4              READY          RUNNING
+
+24951          4              RUNNING        READY
+
+24952          1              READY          RUNNING
+
+25053          1              RUNNING        READY
+
+25054          3              READY          RUNNING
+
+25155          3              RUNNING        READY
+
+25156          5              READY          RUNNING
+
+25257          5              RUNNING        READY
+
+25258          2              READY          RUNNING
+
+25359          2              RUNNING        READY
+
+25360          4              READY          RUNNING
+
+25461          4              RUNNING        READY
+
+25462          1              READY          RUNNING
+
+25523          1              RUNNING        WAITING
+
+25524          3              READY          RUNNING
+
+25625          3              RUNNING        READY
+
+25626          5              READY          RUNNING
+
+25727          5              RUNNING        READY
+
+25728          2              READY          RUNNING
+
+25829          2              RUNNING        READY
+
+25830          4              READY          RUNNING
+
+25931          4              RUNNING        READY
+
+25932          3              READY          RUNNING
+
+26033          3              RUNNING        READY
+
+26034          5              READY          RUNNING
+
+26135          5              RUNNING        READY
+
+26136          2              READY          RUNNING
+
+26237          2              RUNNING        READY
+
+26238          4              READY          RUNNING
+
+26339          4              RUNNING        READY
+
+26340          3              READY          RUNNING
+
+26441          3              RUNNING        READY
+
+26442          5              READY          RUNNING
+
+26523          1              WAITING        READY
+
+26543          5              RUNNING        READY
+
+26544          2              READY          RUNNING
+
+26645          2              RUNNING        READY
+
+26646          4              READY          RUNNING
+
+26747          4              RUNNING        READY
+
+26748          3              READY          RUNNING
+
+26849          3              RUNNING        READY
+
+26850          1              READY          RUNNING
+
+26951          1              RUNNING        READY
+
+26952          5              READY          RUNNING
+
+27053          5              RUNNING        READY
+
+27054          2              READY          RUNNING
+
+27155          2              RUNNING        READY
+
+27156          4              READY          RUNNING
+
+27257          4              RUNNING        READY
+
+27258          3              READY          RUNNING
+
+27359          3              RUNNING        READY
+
+27360          1              READY          RUNNING
+
+27461          1              RUNNING        READY
+
+27462          5              READY          RUNNING
+
+27563          5              RUNNING        READY
+
+27564          2              READY          RUNNING
+
+27665          2              RUNNING        READY
+
+27666          4              READY          RUNNING
+
+27767          4              RUNNING        READY
+
+27768          3              READY          RUNNING
+
+27869          3              RUNNING        READY
+
+27870          1              READY          RUNNING
+
+27971          1              RUNNING        READY
+
+27972          5              READY          RUNNING
+
+28073          5              RUNNING        READY
+
+28074          2              READY          RUNNING
+
+28175          2              RUNNING        READY
+
+28176          4              READY          RUNNING
+
+28277          4              RUNNING        READY
+
+28278          3              READY          RUNNING
+
+28379          3              RUNNING        READY
+
+28380          1              READY          RUNNING
+
+28481          1              RUNNING        READY
+
+28482          5              READY          RUNNING
+
+28583          5              RUNNING        READY
+
+28584          2              READY          RUNNING
+
+28685          2              RUNNING        READY
+
+28686          4              READY          RUNNING
+
+28787          4              RUNNING        READY
+
+28788          3              READY          RUNNING
+
+28889          3              RUNNING        READY
+
+28890          1              READY          RUNNING
+
+28991          1              RUNNING        READY
+
+28992          5              READY          RUNNING
+
+29093          5              RUNNING        READY
+
+29094          2              READY          RUNNING
+
+29195          2              RUNNING        READY
+
+29196          4              READY          RUNNING
+
+29297          4              RUNNING        READY
+
+29298          3              READY          RUNNING
+
+29399          3              RUNNING        READY
+
+29400          1              READY          RUNNING
+
+29501          1              RUNNING        READY
+
+29502          5              READY          RUNNING
+
+29603          5              RUNNING        READY
+
+29604          2              READY          RUNNING
+
+29705          2              RUNNING        READY
+
+29706          4              READY          RUNNING
+
+29807          4              RUNNING        READY
+
+29808          3              READY          RUNNING
+
+29869          3              RUNNING        WAITING
+
+29870          1              READY          RUNNING
+
+29971          1              RUNNING        READY
+
+29972          5              READY          RUNNING
+
+30073          5              RUNNING        READY
+
+30074          2              READY          RUNNING
+
+30175          2              RUNNING        READY
+
+30176          4              READY          RUNNING
+
+30277          4              RUNNING        READY
+
+30278          1              READY          RUNNING
+
+30379          1              RUNNING        READY
+
+30380          5              READY          RUNNING
+
+30481          5              RUNNING        READY
+
+30482          2              READY          RUNNING
+
+30583          2              RUNNING        READY
+
+30584          4              READY          RUNNING
+
+30685          4              RUNNING        READY
+
+30686          1              READY          RUNNING
+
+30787          1              RUNNING        READY
+
+30788          5              READY          RUNNING
+
+30869          3              WAITING        READY
+
+30889          5              RUNNING        READY
+
+30890          2              READY          RUNNING
+
+30991          2              RUNNING        READY
+
+30992          4              READY          RUNNING
+
+31093          4              RUNNING        READY
+
+31094          1              READY          RUNNING
+
+31195          1              RUNNING        READY
+
+31196          3              READY          RUNNING
+
+31297          3              RUNNING        READY
+
+31298          5              READY          RUNNING
+
+31399          5              RUNNING        READY
+
+31400          2              READY          RUNNING
+
+31501          2              RUNNING        READY
+
+31502          4              READY          RUNNING
+
+31563          4              RUNNING        WAITING
+
+31564          1              READY          RUNNING
+
+31665          1              RUNNING        READY
+
+31666          3              READY          RUNNING
+
+31767          3              RUNNING        READY
+
+31768          5              READY          RUNNING
+
+31869          5              RUNNING        READY
+
+31870          2              READY          RUNNING
+
+31971          2              RUNNING        READY
+
+31972          1              READY          RUNNING
+
+32073          1              RUNNING        READY
+
+32074          3              READY          RUNNING
+
+32175          3              RUNNING        READY
+
+32176          5              READY          RUNNING
+
+32277          5              RUNNING        READY
+
+32278          2              READY          RUNNING
+
+32379          2              RUNNING        READY
+
+32380          1              READY          RUNNING
+
+32481          1              RUNNING        READY
+
+32482          3              READY          RUNNING
+
+32563          4              WAITING        READY
+
+32583          3              RUNNING        READY
+
+32584          5              READY          RUNNING
+
+32685          5              RUNNING        READY
+
+32686          2              READY          RUNNING
+
+32787          2              RUNNING        READY
+
+32788          1              READY          RUNNING
+
+32889          1              RUNNING        READY
+
+32890          4              READY          RUNNING
+
+32991          4              RUNNING        READY
+
+32992          3              READY          RUNNING
+
+33093          3              RUNNING        READY
+
+33094          5              READY          RUNNING
+
+33195          5              RUNNING        READY
+
+33196          2              READY          RUNNING
+
+33297          2              RUNNING        READY
+
+33298          1              READY          RUNNING
+
+33399          1              RUNNING        READY
+
+33400          4              READY          RUNNING
+
+33501          4              RUNNING        READY
+
+33502          3              READY          RUNNING
+
+33603          3              RUNNING        READY
+
+33604          5              READY          RUNNING
+
+33705          5              RUNNING        READY
+
+33706          2              READY          RUNNING
+
+33807          2              RUNNING        READY
+
+33808          1              READY          RUNNING
+
+33909          1              RUNNING        READY
+
+33910          4              READY          RUNNING
+
+34011          4              RUNNING        READY
+
+34012          3              READY          RUNNING
+
+34113          3              RUNNING        READY
+
+34114          5              READY          RUNNING
+
+34215          5              RUNNING        READY
+
+34216          2              READY          RUNNING
+
+34317          2              RUNNING        READY
+
+34318          1              READY          RUNNING
+
+34419          1              RUNNING        READY
+
+34420          4              READY          RUNNING
+
+34521          4              RUNNING        READY
+
+34522          3              READY          RUNNING
+
+34623          3              RUNNING        READY
+
+34624          5              READY          RUNNING
+
+34725          5              RUNNING        READY
+
+34726          2              READY          RUNNING
+
+34827          2              RUNNING        READY
+
+34828          1              READY          RUNNING
+
+34929          1              RUNNING        READY
+
+34930          4              READY          RUNNING
+
+35031          4              RUNNING        READY
+
+35032          3              READY          RUNNING
+
+35133          3              RUNNING        READY
+
+35134          5              READY          RUNNING
+
+35235          5              RUNNING        READY
+
+35236          2              READY          RUNNING
+
+35337          2              RUNNING        READY
+
+35338          1              READY          RUNNING
+
+35439          1              RUNNING        READY
+
+35440          4              READY          RUNNING
+
+35541          4              RUNNING        READY
+
+35542          3              READY          RUNNING
+
+35643          3              RUNNING        READY
+
+35644          5              READY          RUNNING
+
+35745          5              RUNNING        READY
+
+35746          2              READY          RUNNING
+
+35847          2              RUNNING        READY
+
+35848          1              READY          RUNNING
+
+35949          1              RUNNING        READY
+
+35950          4              READY          RUNNING
+
+36051          4              RUNNING        READY
+
+36052          3              READY          RUNNING
+
+36153          3              RUNNING        READY
+
+36154          5              READY          RUNNING
+
+36215          5              RUNNING        WAITING
+
+36216          2              READY          RUNNING
+
+36317          2              RUNNING        READY
+
+36318          1              READY          RUNNING
+
+36419          1              RUNNING        READY
+
+36420          4              READY          RUNNING
+
+36521          4              RUNNING        READY
+
+36522          3              READY          RUNNING
+
+36623          3              RUNNING        READY
+
+36624          2              READY          RUNNING
+
+36725          2              RUNNING        READY
+
+36726          1              READY          RUNNING
+
+36827          1              RUNNING        READY
+
+36828          4              READY          RUNNING
+
+36929          4              RUNNING        READY
+
+36930          3              READY          RUNNING
+
+37031          3              RUNNING        READY
+
+37032          2              READY          RUNNING
+
+37133          2              RUNNING        READY
+
+37134          1              READY          RUNNING
+
+37215          5              WAITING        READY
+
+37235          1              RUNNING        READY
+
+37236          4              READY          RUNNING
+
+37337          4              RUNNING        READY
+
+37338          3              READY          RUNNING
+
+37439          3              RUNNING        READY
+
+37440          2              READY          RUNNING
+
+37541          2              RUNNING        READY
+
+37542          5              READY          RUNNING
+
+37643          5              RUNNING        READY
+
+37644          1              READY          RUNNING
+
+37745          1              RUNNING        READY
+
+37746          4              READY          RUNNING
+
+37847          4              RUNNING        READY
+
+37848          3              READY          RUNNING
+
+37949          3              RUNNING        READY
+
+37950          2              READY          RUNNING
+
+38051          2              RUNNING        READY
+
+38052          5              READY          RUNNING
+
+38153          5              RUNNING        READY
+
+38154          1              READY          RUNNING
+
+38255          1              RUNNING        READY
+
+38256          4              READY          RUNNING
+
+38357          4              RUNNING        READY
+
+38358          3              READY          RUNNING
+
+38459          3              RUNNING        READY
+
+38460          2              READY          RUNNING
+
+38561          2              RUNNING        READY
+
+38562          5              READY          RUNNING
+
+38663          5              RUNNING        READY
+
+38664          1              READY          RUNNING
+
+38765          1              RUNNING        READY
+
+38766          4              READY          RUNNING
+
+38867          4              RUNNING        READY
+
+38868          3              READY          RUNNING
+
+38969          3              RUNNING        READY
+
+38970          2              READY          RUNNING
+
+39071          2              RUNNING        READY
+
+39072          5              READY          RUNNING
+
+39173          5              RUNNING        READY
+
+39174          1              READY          RUNNING
+
+39275          1              RUNNING        READY
+
+39276          4              READY          RUNNING
+
+39377          4              RUNNING        READY
+
+39378          3              READY          RUNNING
+
+39479          3              RUNNING        READY
+
+39480          2              READY          RUNNING
+
+39581          2              RUNNING        READY
+
+39582          5              READY          RUNNING
+
+39683          5              RUNNING        READY
+
+39684          1              READY          RUNNING
+
+39785          1              RUNNING        READY
+
+39786          4              READY          RUNNING
+
+39887          4              RUNNING        READY
+
+39888          3              READY          RUNNING
+
+39989          3              RUNNING        READY
+
+39990          2              READY          RUNNING
+
+40091          2              RUNNING        READY
+
+40092          5              READY          RUNNING
+
+40193          5              RUNNING        READY
+
+40194          1              READY          RUNNING
+
+40295          1              RUNNING        READY
+
+40296          4              READY          RUNNING
+
+40397          4              RUNNING        READY
+
+40398          3              READY          RUNNING
+
+40499          3              RUNNING        READY
+
+40500          2              READY          RUNNING
+
+40561          2              RUNNING        WAITING
+
+40562          5              READY          RUNNING
+
+40663          5              RUNNING        READY
+
+40664          1              READY          RUNNING
+
+40765          1              RUNNING        READY
+
+40766          4              READY          RUNNING
+
+40867          4              RUNNING        READY
+
+40868          3              READY          RUNNING
+
+40969          3              RUNNING        READY
+
+40970          5              READY          RUNNING
+
+41071          5              RUNNING        READY
+
+41072          1              READY          RUNNING
+
+41173          1              RUNNING        READY
+
+41174          4              READY          RUNNING
+
+41275          4              RUNNING        READY
+
+41276          3              READY          RUNNING
+
+41377          3              RUNNING        READY
+
+41378          5              READY          RUNNING
+
+41479          5              RUNNING        READY
+
+41480          1              READY          RUNNING
+
+41561          2              WAITING        READY
+
+41581          1              RUNNING        READY
+
+41582          4              READY          RUNNING
+
+41683          4              RUNNING        READY
+
+41684          3              READY          RUNNING
+
+41785          3              RUNNING        READY
+
+41786          5              READY          RUNNING
+
+41887          5              RUNNING        READY
+
+41888          2              READY          RUNNING
+
+41989          2              RUNNING        READY
+
+41990          1              READY          RUNNING
+
+42091          1              RUNNING        READY
+
+42092          4              READY          RUNNING
+
+42193          4              RUNNING        READY
+
+42194          3              READY          RUNNING
+
+42295          3              RUNNING        READY
+
+42296          5              READY          RUNNING
+
+42397          5              RUNNING        READY
+
+42398          2              READY          RUNNING
+
+42499          2              RUNNING        READY
+
+42500          1              READY          RUNNING
+
+42601          1              RUNNING        READY
+
+42602          4              READY          RUNNING
+
+42703          4              RUNNING        READY
+
+42704          3              READY          RUNNING
+
+42805          3              RUNNING        READY
+
+42806          5              READY          RUNNING
+
+42907          5              RUNNING        READY
+
+42908          2              READY          RUNNING
+
+43009          2              RUNNING        READY
+
+43010          1              READY          RUNNING
+
+43111          1              RUNNING        READY
+
+43112          4              READY          RUNNING
+
+43213          4              RUNNING        READY
+
+43214          3              READY          RUNNING
+
+43315          3              RUNNING        READY
+
+43316          5              READY          RUNNING
+
+43417          5              RUNNING        READY
+
+43418          2              READY          RUNNING
+
+43519          2              RUNNING        READY
+
+43520          1              READY          RUNNING
+
+43621          1              RUNNING        READY
+
+43622          4              READY          RUNNING
+
+43723          4              RUNNING        READY
+
+43724          3              READY          RUNNING
+
+43825          3              RUNNING        READY
+
+43826          5              READY          RUNNING
+
+43927          5              RUNNING        READY
+
+43928          2              READY          RUNNING
+
+44029          2              RUNNING        READY
+
+44030          1              READY          RUNNING
+
+44131          1              RUNNING        READY
+
+44132          4              READY          RUNNING
+
+44233          4              RUNNING        READY
+
+44234          3              READY          RUNNING
+
+44335          3              RUNNING        READY
+
+44336          5              READY          RUNNING
+
+44437          5              RUNNING        READY
+
+44438          2              READY          RUNNING
+
+44539          2              RUNNING        READY
+
+44540          1              READY          RUNNING
+
+44641          1              RUNNING        READY
+
+44642          4              READY          RUNNING
+
+44743          4              RUNNING        READY
+
+44744          3              READY          RUNNING
+
+44845          3              RUNNING        READY
+
+44846          5              READY          RUNNING
+
+44947          5              RUNNING        READY
+
+44948          2              READY          RUNNING
+
+45049          2              RUNNING        READY
+
+45050          1              READY          RUNNING
+
+45151          1              RUNNING        READY
+
+45152          4              READY          RUNNING
+
+45253          4              RUNNING        READY
+
+45254          3              READY          RUNNING
+
+45355          3              RUNNING        READY
+
+45356          5              READY          RUNNING
+
+45457          5              RUNNING        READY
+
+45458          2              READY          RUNNING
+
+45559          2              RUNNING        READY
+
+45560          1              READY          RUNNING
+
+45621          1              RUNNING        WAITING
+
+45622          4              READY          RUNNING
+
+45723          4              RUNNING        READY
+
+45724          3              READY          RUNNING
+
+45825          3              RUNNING        READY
+
+45826          5              READY          RUNNING
+
+45927          5              RUNNING        READY
+
+45928          2              READY          RUNNING
+
+46029          2              RUNNING        READY
+
+46030          4              READY          RUNNING
+
+46131          4              RUNNING        READY
+
+46132          3              READY          RUNNING
+
+46233          3              RUNNING        READY
+
+46234          5              READY          RUNNING
+
+46335          5              RUNNING        READY
+
+46336          2              READY          RUNNING
+
+46437          2              RUNNING        READY
+
+46438          4              READY          RUNNING
+
+46539          4              RUNNING        READY
+
+46540          3              READY          RUNNING
+
+46621          1              WAITING        READY
+
+46641          3              RUNNING        READY
+
+46642          5              READY          RUNNING
+
+46743          5              RUNNING        READY
+
+46744          2              READY          RUNNING
+
+46845          2              RUNNING        READY
+
+46846          4              READY          RUNNING
+
+46947          4              RUNNING        READY
+
+46948          1              READY          RUNNING
+
+47049          1              RUNNING        READY
+
+47050          3              READY          RUNNING
+
+47151          3              RUNNING        READY
+
+47152          5              READY          RUNNING
+
+47253          5              RUNNING        READY
+
+47254          2              READY          RUNNING
+
+47355          2              RUNNING        READY
+
+47356          4              READY          RUNNING
+
+47457          4              RUNNING        READY
+
+47458          1              READY          RUNNING
+
+47559          1              RUNNING        READY
+
+47560          3              READY          RUNNING
+
+47661          3              RUNNING        READY
+
+47662          5              READY          RUNNING
+
+47763          5              RUNNING        READY
+
+47764          2              READY          RUNNING
+
+47865          2              RUNNING        READY
+
+47866          4              READY          RUNNING
+
+47967          4              RUNNING        READY
+
+47968          1              READY          RUNNING
+
+48069          1              RUNNING        READY
+
+48070          3              READY          RUNNING
+
+48171          3              RUNNING        READY
+
+48172          5              READY          RUNNING
+
+48273          5              RUNNING        READY
+
+48274          2              READY          RUNNING
+
+48375          2              RUNNING        READY
+
+48376          4              READY          RUNNING
+
+48477          4              RUNNING        READY
+
+48478          1              READY          RUNNING
+
+48579          1              RUNNING        READY
+
+48580          3              READY          RUNNING
+
+48681          3              RUNNING        READY
+
+48682          5              READY          RUNNING
+
+48783          5              RUNNING        READY
+
+48784          2              READY          RUNNING
+
+48885          2              RUNNING        READY
+
+48886          4              READY          RUNNING
+
+48987          4              RUNNING        READY
+
+48988          1              READY          RUNNING
+
+49089          1              RUNNING        READY
+
+49090          3              READY          RUNNING
+
+49191          3              RUNNING        READY
+
+49192          5              READY          RUNNING
+
+49293          5              RUNNING        READY
+
+49294          2              READY          RUNNING
+
+49395          2              RUNNING        READY
+
+49396          4              READY          RUNNING
+
+49497          4              RUNNING        READY
+
+49498          1              READY          RUNNING
+
+49599          1              RUNNING        READY
+
+49600          3              READY          RUNNING
+
+49701          3              RUNNING        READY
+
+49702          5              READY          RUNNING
+
+49803          5              RUNNING        READY
+
+49804          2              READY          RUNNING
+
+49905          2              RUNNING        READY
+
+49906          4              READY          RUNNING
+
+50007          4              RUNNING        READY
+
+50008          1              READY          RUNNING
+
+50109          1              RUNNING        READY
+
+50110          3              READY          RUNNING
+
+50171          3              RUNNING        WAITING
+
+50172          5              READY          RUNNING
+
+50273          5              RUNNING        READY
+
+50274          2              READY          RUNNING
+
+50375          2              RUNNING        READY
+
+50376          4              READY          RUNNING
+
+50477          4              RUNNING        READY
+
+50478          1              READY          RUNNING
+
+50579          1              RUNNING        READY
+
+50580          5              READY          RUNNING
+
+50681          5              RUNNING        READY
+
+50682          2              READY          RUNNING
+
+50783          2              RUNNING        READY
+
+50784          4              READY          RUNNING
+
+50885          4              RUNNING        READY
+
+50886          1              READY          RUNNING
+
+50987          1              RUNNING        READY
+
+50988          5              READY          RUNNING
+
+51089          5              RUNNING        READY
+
+51090          2              READY          RUNNING
+
+51171          3              WAITING        READY
+
+51191          2              RUNNING        READY
+
+51192          4              READY          RUNNING
+
+51293          4              RUNNING        READY
+
+51294          1              READY          RUNNING
+
+51395          1              RUNNING        READY
+
+51396          5              READY          RUNNING
+
+51497          5              RUNNING        READY
+
+51498          3              READY          RUNNING
+
+51599          3              RUNNING        READY
+
+51600          2              READY          RUNNING
+
+51701          2              RUNNING        READY
+
+51702          4              READY          RUNNING
+
+51763          4              RUNNING        WAITING
+
+51764          1              READY          RUNNING
+
+51865          1              RUNNING        READY
+
+51866          5              READY          RUNNING
+
+51967          5              RUNNING        READY
+
+51968          3              READY          RUNNING
+
+52069          3              RUNNING        READY
+
+52070          2              READY          RUNNING
+
+52171          2              RUNNING        READY
+
+52172          1              READY          RUNNING
+
+52273          1              RUNNING        READY
+
+52274          5              READY          RUNNING
+
+52375          5              RUNNING        READY
+
+52376          3              READY          RUNNING
+
+52477          3              RUNNING        READY
+
+52478          2              READY          RUNNING
+
+52579          2              RUNNING        READY
+
+52580          1              READY          RUNNING
+
+52681          1              RUNNING        READY
+
+52682          5              READY          RUNNING
+
+52763          4              WAITING        READY
+
+52783          5              RUNNING        READY
+
+52784          3              READY          RUNNING
+
+52885          3              RUNNING        READY
+
+52886          2              READY          RUNNING
+
+52987          2              RUNNING        READY
+
+52988          1              READY          RUNNING
+
+53089          1              RUNNING        READY
+
+53090          4              READY          RUNNING
+
+53191          4              RUNNING        READY
+
+53192          5              READY          RUNNING
+
+53293          5              RUNNING        READY
+
+53294          3              READY          RUNNING
+
+53395          3              RUNNING        READY
+
+53396          2              READY          RUNNING
+
+53497          2              RUNNING        READY
+
+53498          1              READY          RUNNING
+
+53599          1              RUNNING        READY
+
+53600          4              READY          RUNNING
+
+53701          4              RUNNING        READY
+
+53702          5              READY          RUNNING
+
+53803          5              RUNNING        READY
+
+53804          3              READY          RUNNING
+
+53905          3              RUNNING        READY
+
+53906          2              READY          RUNNING
+
+54007          2              RUNNING        READY
+
+54008          1              READY          RUNNING
+
+54109          1              RUNNING        READY
+
+54110          4              READY          RUNNING
+
+54211          4              RUNNING        READY
+
+54212          5              READY          RUNNING
+
+54313          5              RUNNING        READY
+
+54314          3              READY          RUNNING
+
+54415          3              RUNNING        READY
+
+54416          2              READY          RUNNING
+
+54517          2              RUNNING        READY
+
+54518          1              READY          RUNNING
+
+54619          1              RUNNING        READY
+
+54620          4              READY          RUNNING
+
+54721          4              RUNNING        READY
+
+54722          5              READY          RUNNING
+
+54823          5              RUNNING        READY
+
+54824          3              READY          RUNNING
+
+54925          3              RUNNING        READY
+
+54926          2              READY          RUNNING
+
+55027          2              RUNNING        READY
+
+55028          1              READY          RUNNING
+
+55129          1              RUNNING        READY
+
+55130          4              READY          RUNNING
+
+55231          4              RUNNING        READY
+
+55232          5              READY          RUNNING
+
+55333          5              RUNNING        READY
+
+55334          3              READY          RUNNING
+
+55435          3              RUNNING        READY
+
+55436          2              READY          RUNNING
+
+55537          2              RUNNING        READY
+
+55538          1              READY          RUNNING
+
+55639          1              RUNNING        READY
+
+55640          4              READY          RUNNING
+
+55741          4              RUNNING        READY
+
+55742          5              READY          RUNNING
+
+55843          5              RUNNING        READY
+
+55844          3              READY          RUNNING
+
+55945          3              RUNNING        READY
+
+55946          2              READY          RUNNING
+
+56017          2              RUNNING        TERMINATED
+
+56018          1              READY          RUNNING
+
+56119          1              RUNNING        READY
+
+56120          4              READY          RUNNING
+
+56221          4              RUNNING        READY
+
+56222          5              READY          RUNNING
+
+56283          5              RUNNING        WAITING
+
+56284          3              READY          RUNNING
+
+56385          3              RUNNING        READY
+
+56386          1              READY          RUNNING
+
+56487          1              RUNNING        READY
+
+56488          4              READY          RUNNING
+
+56589          4              RUNNING        READY
+
+56590          3              READY          RUNNING
+
+56691          3              RUNNING        READY
+
+56692          1              READY          RUNNING
+
+56793          1              RUNNING        READY
+
+56794          4              READY          RUNNING
+
+56895          4              RUNNING        READY
+
+56896          3              READY          RUNNING
+
+56997          3              RUNNING        READY
+
+56998          1              READY          RUNNING
+
+57099          1              RUNNING        READY
+
+57100          4              READY          RUNNING
+
+57201          4              RUNNING        READY
+
+57202          3              READY          RUNNING
+
+57283          5              WAITING        READY
+
+57303          3              RUNNING        READY
+
+57304          1              READY          RUNNING
+
+57405          1              RUNNING        READY
+
+57406          4              READY          RUNNING
+
+57507          4              RUNNING        READY
+
+57508          5              READY          RUNNING
+
+57609          5              RUNNING        READY
+
+57610          3              READY          RUNNING
+
+57711          3              RUNNING        READY
+
+57712          1              READY          RUNNING
+
+57813          1              RUNNING        READY
+
+57814          4              READY          RUNNING
+
+57915          4              RUNNING        READY
+
+57916          5              READY          RUNNING
+
+58017          5              RUNNING        READY
+
+58018          3              READY          RUNNING
+
+58119          3              RUNNING        READY
+
+58120          1              READY          RUNNING
+
+58221          1              RUNNING        READY
+
+58222          4              READY          RUNNING
+
+58323          4              RUNNING        READY
+
+58324          5              READY          RUNNING
+
+58425          5              RUNNING        READY
+
+58426          3              READY          RUNNING
+
+58527          3              RUNNING        READY
+
+58528          1              READY          RUNNING
+
+58629          1              RUNNING        READY
+
+58630          4              READY          RUNNING
+
+58731          4              RUNNING        READY
+
+58732          5              READY          RUNNING
+
+58833          5              RUNNING        READY
+
+58834          3              READY          RUNNING
+
+58935          3              RUNNING        READY
+
+58936          1              READY          RUNNING
+
+59037          1              RUNNING        READY
+
+59038          4              READY          RUNNING
+
+59139          4              RUNNING        READY
+
+59140          5              READY          RUNNING
+
+59241          5              RUNNING        READY
+
+59242          3              READY          RUNNING
+
+59343          3              RUNNING        READY
+
+59344          1              READY          RUNNING
+
+59445          1              RUNNING        READY
+
+59446          4              READY          RUNNING
+
+59547          4              RUNNING        READY
+
+59548          5              READY          RUNNING
+
+59649          5              RUNNING        READY
+
+59650          3              READY          RUNNING
+
+59751          3              RUNNING        READY
+
+59752          1              READY          RUNNING
+
+59853          1              RUNNING        READY
+
+59854          4              READY          RUNNING
+
+59955          4              RUNNING        READY
+
+59956          5              READY          RUNNING
+
+60057          5              RUNNING        READY
+
+60058          3              READY          RUNNING
+
+60159          3              RUNNING        READY
+
+60160          1              READY          RUNNING
+
+60261          1              RUNNING        READY
+
+60262          4              READY          RUNNING
+
+60363          4              RUNNING        READY
+
+60364          5              READY          RUNNING
+
+60465          5              RUNNING        READY
+
+60466          3              READY          RUNNING
+
+60567          3              RUNNING        READY
+
+60568          1              READY          RUNNING
+
+60669          1              RUNNING        READY
+
+60670          4              READY          RUNNING
+
+60771          4              RUNNING        READY
+
+60772          5              READY          RUNNING
+
+60873          5              RUNNING        READY
+
+60874          3              READY          RUNNING
+
+60975          3              RUNNING        READY
+
+60976          1              READY          RUNNING
+
+61077          1              RUNNING        READY
+
+61078          4              READY          RUNNING
+
+61179          4              RUNNING        READY
+
+61180          5              READY          RUNNING
+
+61281          5              RUNNING        READY
+
+61282          3              READY          RUNNING
+
+61383          3              RUNNING        READY
+
+61384          1              READY          RUNNING
+
+61485          1              RUNNING        READY
+
+61486          4              READY          RUNNING
+
+61587          4              RUNNING        READY
+
+61588          5              READY          RUNNING
+
+61689          5              RUNNING        READY
+
+61690          3              READY          RUNNING
+
+61791          3              RUNNING        READY
+
+61792          1              READY          RUNNING
+
+61893          1              RUNNING        READY
+
+61894          4              READY          RUNNING
+
+61995          4              RUNNING        READY
+
+61996          5              READY          RUNNING
+
+62097          5              RUNNING        READY
+
+62098          3              READY          RUNNING
+
+62199          3              RUNNING        READY
+
+62200          1              READY          RUNNING
+
+62301          1              RUNNING        READY
+
+62302          4              READY          RUNNING
+
+62403          4              RUNNING        READY
+
+62404          5              READY          RUNNING
+
+62505          5              RUNNING        READY
+
+62506          3              READY          RUNNING
+
+62607          3              RUNNING        READY
+
+62608          1              READY          RUNNING
+
+62709          1              RUNNING        READY
+
+62710          4              READY          RUNNING
+
+62811          4              RUNNING        READY
+
+62812          5              READY          RUNNING
+
+62913          5              RUNNING        READY
+
+62914          3              READY          RUNNING
+
+63015          3              RUNNING        READY
+
+63016          1              READY          RUNNING
+
+63117          1              RUNNING        READY
+
+63118          4              READY          RUNNING
+
+63219          4              RUNNING        READY
+
+63220          5              READY          RUNNING
+
+63321          5              RUNNING        READY
+
+63322          3              READY          RUNNING
+
+63423          3              RUNNING        READY
+
+63424          1              READY          RUNNING
+
+63525          1              RUNNING        READY
+
+63526          4              READY          RUNNING
+
+63627          4              RUNNING        READY
+
+63628          5              READY          RUNNING
+
+63729          5              RUNNING        READY
+
+63730          3              READY          RUNNING
+
+63831          3              RUNNING        READY
+
+63832          1              READY          RUNNING
+
+63893          1              RUNNING        WAITING
+
+63894          4              READY          RUNNING
+
+63995          4              RUNNING        READY
+
+63996          5              READY          RUNNING
+
+64097          5              RUNNING        READY
+
+64098          3              READY          RUNNING
+
+64199          3              RUNNING        READY
+
+64200          4              READY          RUNNING
+
+64301          4              RUNNING        READY
+
+64302          5              READY          RUNNING
+
+64403          5              RUNNING        READY
+
+64404          3              READY          RUNNING
+
+64505          3              RUNNING        READY
+
+64506          4              READY          RUNNING
+
+64607          4              RUNNING        READY
+
+64608          5              READY          RUNNING
+
+64709          5              RUNNING        READY
+
+64710          3              READY          RUNNING
+
+64811          3              RUNNING        READY
+
+64812          4              READY          RUNNING
+
+64883          4              RUNNING        TERMINATED
+
+64884          5              READY          RUNNING
+
+64893          1              WAITING        READY
+
+64985          5              RUNNING        READY
+
+64986          3              READY          RUNNING
+
+65087          3              RUNNING        READY
+
+65088          1              READY          RUNNING
+
+65189          1              RUNNING        READY
+
+65190          5              READY          RUNNING
+
+65291          5              RUNNING        READY
+
+65292          3              READY          RUNNING
+
+65393          3              RUNNING        READY
+
+65394          1              READY          RUNNING
+
+65495          1              RUNNING        READY
+
+65496          5              READY          RUNNING
+
+65597          5              RUNNING        READY
+
+65598          3              READY          RUNNING
+
+65699          3              RUNNING        READY
+
+65700          1              READY          RUNNING
+
+65801          1              RUNNING        READY
+
+65802          5              READY          RUNNING
+
+65903          5              RUNNING        READY
+
+65904          3              READY          RUNNING
+
+66005          3              RUNNING        READY
+
+66006          1              READY          RUNNING
+
+66107          1              RUNNING        READY
+
+66108          5              READY          RUNNING
+
+66209          5              RUNNING        READY
+
+66210          3              READY          RUNNING
+
+66311          3              RUNNING        READY
+
+66312          1              READY          RUNNING
+
+66413          1              RUNNING        READY
+
+66414          5              READY          RUNNING
+
+66515          5              RUNNING        READY
+
+66516          3              READY          RUNNING
+
+66617          3              RUNNING        READY
+
+66618          1              READY          RUNNING
+
+66719          1              RUNNING        READY
+
+66720          5              READY          RUNNING
+
+66821          5              RUNNING        READY
+
+66822          3              READY          RUNNING
+
+66883          3              RUNNING        TERMINATED
+
+66884          1              READY          RUNNING
+
+66985          1              RUNNING        READY
+
+66986          5              READY          RUNNING
+
+67087          5              RUNNING        READY
+
+67088          1              READY          RUNNING
+
+67189          1              RUNNING        READY
+
+67190          5              READY          RUNNING
+
+67291          5              RUNNING        READY
+
+67292          1              READY          RUNNING
+
+67393          1              RUNNING        READY
+
+67394          5              READY          RUNNING
+
+67495          5              RUNNING        READY
+
+67496          1              READY          RUNNING
+
+67597          1              RUNNING        READY
+
+67598          5              READY          RUNNING
+
+67699          5              RUNNING        READY
+
+67700          1              READY          RUNNING
+
+67801          1              RUNNING        READY
+
+67802          5              READY          RUNNING
+
+67903          5              RUNNING        READY
+
+67904          1              READY          RUNNING
+
+68005          1              RUNNING        READY
+
+68006          5              READY          RUNNING
+
+68107          5              RUNNING        READY
+
+68108          1              READY          RUNNING
+
+68209          1              RUNNING        READY
+
+68210          5              READY          RUNNING
+
+68311          5              RUNNING        READY
+
+68312          1              READY          RUNNING
+
+68413          1              RUNNING        READY
+
+68414          5              READY          RUNNING
+
+68515          5              RUNNING        READY
+
+68516          1              READY          RUNNING
+
+68617          1              RUNNING        READY
+
+68618          5              READY          RUNNING
+
+68719          5              RUNNING        READY
+
+68720          1              READY          RUNNING
+
+68821          1              RUNNING        READY
+
+68822          5              READY          RUNNING
+
+68923          5              RUNNING        READY
+
+68924          1              READY          RUNNING
+
+69025          1              RUNNING        READY
+
+69026          5              READY          RUNNING
+
+69127          5              RUNNING        READY
+
+69128          1              READY          RUNNING
+
+69229          1              RUNNING        READY
+
+69230          5              READY          RUNNING
+
+69331          5              RUNNING        READY
+
+69332          1              READY          RUNNING
+
+69433          1              RUNNING        READY
+
+69434          5              READY          RUNNING
+
+69535          5              RUNNING        READY
+
+69536          1              READY          RUNNING
+
+69617          1              RUNNING        TERMINATED
+
+69618          5              READY          RUNNING
+
+69679          5              RUNNING        WAITING
+
+70679          5              WAITING        READY
+
+70680          5              READY          RUNNING
+
+70781          5              RUNNING        READY
+
+70782          5              READY          RUNNING
+
+70883          5              RUNNING        READY
+
+70884          5              READY          RUNNING
+
+70985          5              RUNNING        READY
+
+70986          5              READY          RUNNING
+
+71087          5              RUNNING        READY
+
+71088          5              READY          RUNNING
+
+71189          5              RUNNING        READY
+
+71190          5              READY          RUNNING
+
+71291          5              RUNNING        READY
+
+71292          5              READY          RUNNING
+
+71393          5              RUNNING        READY
+
+71394          5              READY          RUNNING
+
+71495          5              RUNNING        READY
+
+71496          5              READY          RUNNING
+
+71597          5              RUNNING        READY
+
+71598          5              READY          RUNNING
+
+71699          5              RUNNING        READY
+
+71700          5              READY          RUNNING
+
+71801          5              RUNNING        READY
+
+71802          5              READY          RUNNING
+
+71903          5              RUNNING        READY
+
+71904          5              READY          RUNNING
+
+72005          5              RUNNING        READY
+
+72006          5              READY          RUNNING
+
+72107          5              RUNNING        READY
+
+72108          5              READY          RUNNING
+
+72209          5              RUNNING        READY
+
+72210          5              READY          RUNNING
+
+72311          5              RUNNING        READY
+
+72312          5              READY          RUNNING
+
+72413          5              RUNNING        READY
+
+72414          5              READY          RUNNING
+
+72515          5              RUNNING        READY
+
+72516          5              READY          RUNNING
+
+72617          5              RUNNING        READY
+
+72618          5              READY          RUNNING
+
+72699          5              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 5
+
+THROUGHPUT >>> 14540.00 ms/process
+
+AVERAGE TURNAROUND TIME >>> 55819.80 ms/process
+
+TOTAL WAIT TIME >>> 195099 ms
+
+AVERAGE WAIT TIME >>> 39019.80 ms/process
+
+AVERAGE CPU BURST TIME >>> 14000.00 ms/process
+
+AVERAGE RESPONSE TIME >>> 4192.86 ms

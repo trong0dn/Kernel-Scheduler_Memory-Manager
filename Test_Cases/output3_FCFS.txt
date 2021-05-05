@@ -1,0 +1,137 @@
+Time           PID            Old State      New State     
+
+5              1              NEW            READY
+
+5              1              READY          RUNNING
+
+6              2              NEW            READY
+
+10             3              NEW            READY
+
+12             4              NEW            READY
+
+15             5              NEW            READY
+
+25             1              RUNNING        WAITING
+
+26             2              READY          RUNNING
+
+35             1              WAITING        READY
+
+66             2              RUNNING        WAITING
+
+67             3              READY          RUNNING
+
+76             2              WAITING        READY
+
+107            3              RUNNING        WAITING
+
+108            4              READY          RUNNING
+
+117            3              WAITING        READY
+
+208            4              RUNNING        WAITING
+
+209            5              READY          RUNNING
+
+218            4              WAITING        READY
+
+219            5              RUNNING        WAITING
+
+220            1              READY          RUNNING
+
+224            5              WAITING        READY
+
+240            1              RUNNING        WAITING
+
+241            2              READY          RUNNING
+
+250            1              WAITING        READY
+
+281            2              RUNNING        WAITING
+
+282            3              READY          RUNNING
+
+291            2              WAITING        READY
+
+322            3              RUNNING        TERMINATED
+
+323            4              READY          RUNNING
+
+423            4              RUNNING        WAITING
+
+424            5              READY          RUNNING
+
+433            4              WAITING        READY
+
+434            5              RUNNING        TERMINATED
+
+435            1              READY          RUNNING
+
+445            1              RUNNING        TERMINATED
+
+446            2              READY          RUNNING
+
+466            2              RUNNING        TERMINATED
+
+467            4              READY          RUNNING
+
+567            4              RUNNING        WAITING
+
+577            4              WAITING        READY
+
+578            4              READY          RUNNING
+
+678            4              RUNNING        WAITING
+
+688            4              WAITING        READY
+
+689            4              READY          RUNNING
+
+789            4              RUNNING        WAITING
+
+799            4              WAITING        READY
+
+800            4              READY          RUNNING
+
+900            4              RUNNING        WAITING
+
+910            4              WAITING        READY
+
+911            4              READY          RUNNING
+
+1011           4              RUNNING        WAITING
+
+1021           4              WAITING        READY
+
+1022           4              READY          RUNNING
+
+1122           4              RUNNING        WAITING
+
+1132           4              WAITING        READY
+
+1133           4              READY          RUNNING
+
+1233           4              RUNNING        WAITING
+
+1243           4              WAITING        READY
+
+1244           4              READY          RUNNING
+
+1344           4              RUNNING        TERMINATED
+
+
+
+NUMBER OF PROCESSES >>> 5
+
+THROUGHPUT >>> 269.00 ms/process
+
+AVERAGE TURNAROUND TIME >>> 592.60 ms/process
+
+TOTAL WAIT TIME >>> 1568 ms
+
+AVERAGE WAIT TIME >>> 313.60 ms/process
+
+AVERAGE CPU BURST TIME >>> 250.00 ms/process
+
+AVERAGE RESPONSE TIME >>> 80.00 ms

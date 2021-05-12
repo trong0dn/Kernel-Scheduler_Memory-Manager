@@ -29,10 +29,10 @@ first fit memory management algorithm.
 - The application is supported with various test cases and scenarios for
 demonstrating the robustness of the simulator. The test cases and scenarios
 are organized into the following folders*:
-	Part2a				(Described in part 2a of assignment)
-	Test_Cases			(Described in bold in part 2b)
-	Memory_Management_Scenarios 	(Test scenarios from part 2b, for report)
-	Scheduling_Algorithm_Scenarios 	(Test scenarios from part 2c, for report)
+	Algorithm_Analysis_Cases	
+	Test_Cases		
+	Memory_Management_Scenarios 	
+	Scheduling_Algorithm_Scenarios 
 	
 	*Each folder contains a copy of the executable and a batch file to make
 	running the tests extra easy.

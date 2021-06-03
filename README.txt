@@ -2,16 +2,16 @@ Kernel Simulator
 [Version 2.00]
 March 5, 2021
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 ===================
 CONTACT INFORMATION
 ___________________
 
-Contact Name:		Trong Nguyen, 100848232
-			Evan Smedley, 100148695
+Contact Name:		Trong Nguyen
+			Evan Smedley
 Affiliation: 		Carleton University - Systems and Computer Engineering
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 ===========
 DESCRIPTION
 ___________
@@ -37,7 +37,7 @@ are organized into the following folders*:
 	*Each folder contains a copy of the executable and a batch file to make
 	running the tests extra easy.
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 ============
 INSTALLATION
 ____________
@@ -52,7 +52,7 @@ language update C17 ISO/IEC 9899:2018.
 No other supplementary libraries and testing file with modular dependencies
 are required to run this application.
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 =====
 USAGE
 _____
@@ -207,7 +207,7 @@ analysis.
 	Total amount of free memory: 700 Mb
 	Total amount of free usable memory: 500 Mb
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 =======
 CREDITS
 _______
@@ -215,7 +215,7 @@ _______
 Thanks to the support of TAs and Instructors during the development of this
 application.
 
-#-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 =======
 LICENSE
 _______
